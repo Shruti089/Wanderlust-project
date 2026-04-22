@@ -8,7 +8,7 @@ It integrates CI/CD, security scanning, and monitoring to simulate a production-
 
 ![Preview Image](https://github.com/krishnaacharyaa/wanderlust/assets/116620586/17ba9da6-225f-481d-87c0-5d5a010a9538)
 
-
+### Project Deployment Flow:
 <img src="https://github.com/DevMadhup/Wanderlust-Mega-Project/blob/main/Assets/DevSecOps%2BGitOps.gif" />
 
 #
